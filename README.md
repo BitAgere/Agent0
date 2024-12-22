@@ -18,6 +18,8 @@ Agents in AOP have a mental state that includes:
 *   **Capabilities:** Actions the agent can perform.
 *   **Obligations(Intentions):** Commitments the agent has made.
 
+![119981734838142_ pic](https://github.com/user-attachments/assets/eb04c2e8-ba89-49de-9798-9d7b93d7a644)
+
 ## 3. Formal Description
 
 *   The mental state of agents is formally described using an extension of epistemic logic (logic of knowledge and belief).
